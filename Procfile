@@ -1,0 +1,1 @@
+web: gunicorn ezFood.wsgi --log-files
